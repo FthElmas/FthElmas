@@ -1,13 +1,18 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FthElmas&label=Profile%20views&color=0e75b6&style=flat" alt="FthElmas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FthElmas" alt="FthElmas" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **Game Development**
 
 - 🌱 I’m currently learning **Unity**
 
 - ⚡ Fun fact **I am into fitness and video games**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FthElmas&label=Profile%20views&color=0e75b6&style=flat" alt="FthElmas" /> </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FthElmas" alt="FthElmas" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
