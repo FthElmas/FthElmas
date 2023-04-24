@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Game Development**
+- 🔭 I’m currently working on **.NET**
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **ASP.NET and HTML**
 
 - ⚡ Fun fact **I am into fitness and video games**
 
