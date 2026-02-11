@@ -25,6 +25,9 @@ I build applications that integrate with payment networks like **SWIFT** and **V
 - **APIs & Integrations**:  
   - Designing and implementing **RESTful APIs** and **SOAP services**  
   - Enabling seamless integration with internal and external systems  
+- **Caching & Search**:  
+  - Using **Redis** for high-performance caching and data access  
+  - Leveraging **Elasticsearch** for powerful search and analytics capabilities  
 - **Frontend Contributions**:  
   - Building user-facing features with **React** and **JavaScript**  
   - Helping create intuitive and responsive interfaces  
@@ -75,6 +78,14 @@ I’m **passionate about solving complex problems in financial technology** and 
   <!-- Databases -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+
+  <!-- Caching & Search -->
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
   </a>
 
   <!-- Tools & DevOps -->
