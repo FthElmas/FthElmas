@@ -51,6 +51,12 @@ I’m **passionate about solving complex problems in financial technology** and 
 
 ---
 
+### 🤝 Connect with Me
+
+- **LinkedIn**: [Murat Fatih Elmas](https://www.linkedin.com/in/murat-fatih-elmas-889053213/)
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
